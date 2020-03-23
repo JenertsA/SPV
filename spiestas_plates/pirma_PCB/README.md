@@ -14,7 +14,7 @@ ievieto atbilstoša izmēra urbumu un paredzi komonenšu izvietojumu tā, lai t 
 - platei ir neregulāra forma, kas iekļaujas izmēros (3p.)
 - ir izpldīts uzdevums, kas atrodams .sch failā kā teksts (3p.)
 - ir lietots jēgpilns celiņu platums, kura izmērs ir metrisks (2p.)
-- *silkscreen* norādi gadu, kad izstrādāta palte(1p.)
+- *silkscreen* norādi gadu, kad izstrādāta plate(1p.)
 - *silkscreen* atrodams autora vārds vai izdomāts logo (2p.)
 - uzaksti, kas atrodas uz *silkscreen* ir izkārtoti un tādā izmērā, kas palīdz cilvēkam ievietot pareizi detaļas (3p.)
 - platē tiek lietoti *poligoni*, kas savieno detaļas(2p.)

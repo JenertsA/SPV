@@ -30,6 +30,7 @@ Izveido pirmās reizes pamācību cilvēkam, kas mēģināt lodēt Tavu piekari�
 ### paturi prātā
 - platei jābūt nelielai, bet ne tika mazai, lai to ir grūti lodēt (iekļaujies 30x30 mm, bet ne lielāku kā 60x30 mm)
 - attālumam starp komponentēm jābūt tik lielam, lai, lodējot tās, samazinātu risku izveidot *solder bridge*
+- Tev nepieciešami abi faili, gan .sch, gan .brd. Starp tiem pastāv sasaiste, kas lieti noder plates izstrādē.
 
 
 ### *lietotie termini*

@@ -25,6 +25,8 @@ Starp Eagle un Fusion 360 pastāv iesēja savienot projektus. </br>
 Ievieto jaunizveidoto plati Fusion360 un uztaisīt detalizētu modeli
 kā piekariņš izskatīsies realitātē 
 
+Sagatavo *GERBER* failus pirkš ražotāja
+
 Izveido pirmās reizes pamācību cilvēkam, kas mēģināt lodēt Tavu piekariņu, kas kur jāsprauž un kā kas jādara. 
 
 ### paturi prātā
@@ -44,6 +46,7 @@ retāk detaļu vērtībām. Silkscreens tiek lietotas arī, lai piešķirtu plat
 
 *__poligoni__* - vara pildījumi platē, ar kuru palīdzibu tiek aizstāta viena vai vairāku celiņu vilkšana. Tipiski ir visu plates varu izmantot kā lielu zemes poligonu - *ground plane*
 
+*__GERBER__* - failu kopums, ko nosūta ražotājam, kas izgatavo plates. gerber faili ir de facto standarta faili, kurus atvērs jebkurš ražotājs jebkurā veitā un spēs sagatavot plati ražošanai.
 
 *__solder bridge__* - lodējot divus blakus esošus kontaktus, alva starp lodējumiem saplūst un veido nevēlamu īssavienojumu. 
 

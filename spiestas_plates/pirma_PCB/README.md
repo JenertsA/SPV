@@ -14,11 +14,17 @@ ievieto atbilstoša izmēra urbumu un paredzi komonenšu izvietojumu tā, lai t 
 - platei ir neregulāra forma, kas iekļaujas izmēros (3p.)
 - ir izpldīts uzdevums, kas atrodams .sch failā kā teksts (3p.)
 - ir lietots jēgpilns celiņu platums, kura izmērs ir metrisks (2p.)
-- *silkscreen* satur gadu, autora vārdu vai izdomātu logo (1p. + 2p.)
+- *silkscreen* norādi gadu, kad izstrādāta palte(1p.)
+- *silkscreen* atrodams autora vārds vai izdomāts logo (2p.)
 - uzaksti, kas atrodas uz *silkscreen* ir izkārtoti un tādā izmērā, kas palīdz cilvēkam ievietot pareizi detaļas (3p.)
 - platē tiek lietoti *poligoni*, kas savieno detaļas(2p.)
 - celiņi uz plates vilki sistemātiski, lietojot 45° leņķi (3p.)
 
+### papildus uzdevumi
+starp Eagle un Fusion 360 pastāv iesēja savienot projektus. Vari ievietot jaunizveidoto plati Fusion360 un uztaisīt detalizētu modeli
+kā piekariņš izskatīsies realitātē 
+
+vari veidot pirmās reizes pamācību cilvēkam, kas mēģināt lodēt Tavu piekariņu, kas kur jāsprauž un kā kas jādara. 
 
 ### paturi prātā
 - platei jābūt nelielai, bet ne tika mazai, lai to ir grūti lodēt (iekļaujies 30x30 mm, bet ne lielāku kā 60x30 mm)

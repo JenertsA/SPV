@@ -1,4 +1,4 @@
- ![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)
+ [![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](https://github.com/JenertsA/SPV/blob/master/spiestas_plates/pirma_PCB/README.md)
  # Uzdevums   
 
 Lai atvieglotu pirmās spiestās plates izstrādi Tev jau ir dota strādājoša shēma, kurā

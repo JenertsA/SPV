@@ -21,8 +21,7 @@ ievieto atbilstoša izmēra urbumu un paredzi komonenšu izvietojumu tā, lai t 
 - celiņi uz plates vilki sistemātiski, lietojot 45° leņķi (3p.)
 
 ### papildus uzdevumi
-starp Eagle un Fusion 360 pastāv iesēja savienot projektus. 
-
+starp Eagle un Fusion 360 pastāv iesēja savienot projektus. </br>
 Vari ievietot jaunizveidoto plati Fusion360 un uztaisīt detalizētu modeli
 kā piekariņš izskatīsies realitātē 
 

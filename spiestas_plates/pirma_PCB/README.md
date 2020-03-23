@@ -21,11 +21,11 @@ ievieto atbilstoša izmēra urbumu un paredzi komonenšu izvietojumu tā, lai t 
 - celiņi uz plates vilki sistemātiski, lietojot 45° leņķi (3p.)
 
 ### papildus uzdevumi
-starp Eagle un Fusion 360 pastāv iesēja savienot projektus. </br>
-Vari ievietot jaunizveidoto plati Fusion360 un uztaisīt detalizētu modeli
+Starp Eagle un Fusion 360 pastāv iesēja savienot projektus. </br>
+Ievieto jaunizveidoto plati Fusion360 un uztaisīt detalizētu modeli
 kā piekariņš izskatīsies realitātē 
 
-Vari veidot pirmās reizes pamācību cilvēkam, kas mēģināt lodēt Tavu piekariņu, kas kur jāsprauž un kā kas jādara. 
+Izveido pirmās reizes pamācību cilvēkam, kas mēģināt lodēt Tavu piekariņu, kas kur jāsprauž un kā kas jādara. 
 
 ### paturi prātā
 - platei jābūt nelielai, bet ne tika mazai, lai to ir grūti lodēt (iekļaujies 30x30 mm, bet ne lielāku kā 60x30 mm)

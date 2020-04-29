@@ -11,7 +11,7 @@ zināmi pamatnosacījumi robotam un tā kustībai:
  - strāvas avots robotam ir **2S vai 3S** LiPo akumulators
  
 pieejamie motori izvēlei: 
-- *DC brushed motor* jeb līdzstŗavas motors ar sukām
+- *DC brushed motor* jeb līdzstrāvas motors ar sukām
 - *BLDC brushless DC motor* jeb motori bez sukām
 - *stepper motor* jeb soļdzinēji
 

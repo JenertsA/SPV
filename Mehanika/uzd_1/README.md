@@ -28,7 +28,7 @@ vai kādā citā tirdzniecības vietā. </br>
 
 padomā par izgatavošanas speficiku un materiāla īpašībām, piemēram,:
 - vai detaļas ir nopērkamas (zobrati, gultņi, utt)
-- kā pārējās detaļas var izgatavots - drukāt, frēzēt? 
+- kā pārējās detaļas var izgatavot - drukāt, frēzēt? 
 - cik biezas sieniņas nepieciešamas, lai detaļas būtu izturīgas un lietojamas
 
 

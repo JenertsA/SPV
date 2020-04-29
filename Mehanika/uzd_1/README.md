@@ -15,6 +15,27 @@ pieejamie motori izvēlei:
 - *BLDC brushless DC motor* jeb motori bez sukām
 - *stepper motor* jeb soļdzinēji
 
-Jāizvēlās ir 
+## darba uzdevumi 
+
+1) Jāizvēlās ir **konkrēts motors**, kas ir pieejams un nopērkams pie ppopulāriem elektrokomponenšu piegādātājiem </br>
+vai kādā citā tirdzniecības vietā. </br>
+2) Pie motoru izvēles **jāveic apēķini**, lai apzinātos, ka šis motors ar pārnesumu būs spējīgs izpildīt prasības.</br>
+3) Veikt vismaz **2 pakāpju** *spure gear* vai *planetary gear* **pārnesuma izstrādi**, lai izejas vārpstas moments atbilstu nepieciešamajam.</br>
+4) **Modelēt** pārnesuma detaļas un **veikt to kustības analīzi**, lai parādītu rotējošās detaļas.</br>
+5) Pārnesumā **paredzēt motora stiprināšanai nepieciešamās detaļas**.</br>
+6) Paredzēt to **kā pārnesums varētu tikt stiprināts pie robota korpusa**.
+
+
+padomā par izgatavošanas speficiku un materiāla īpašībām, piemēram,:
+- vai detaļas ir nopērkamas (zobrati, gultņi, utt)
+- kā pārējās detaļas var izgatavots - drukāt, frēzēt? 
+- cik biezas sieniņas nepieciešamas, lai detaļas būtu izturīgas un lietojamas
+
+
+### kā darba rezulāti iesniedzami sekojoši dokumenti: 
+- dokuments kurā aprakstīts izvēlētais motors, salīdzināts ar alternatīvām (DC vs BLDC vs stepper) </br> 
+- motora datu lapa, kurā redzami galvenie elektromehāniskie raksturlielumi un mehāniskie izmēri </br> 
+- veiktie aprēķini konkrētajam motoram, kas apliecina, ka būs iespējams attīstīt prasīto paātrinājumu </br> 
+- Fusion360 vai citā datorprogrammā veidots pārnesuma detaļu kopsalikums *assembly*
 
  

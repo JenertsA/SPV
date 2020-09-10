@@ -6,8 +6,8 @@ zināmi pamatnosacījumi robotam un tā kustībai:
  - robota izmērs ir **0.4x0.25m**
  - kustību nodrošina **4 motori ar pārnesumiem**
  - robota rata diametrs ir **0.12m**
- - uz līdzenas virsmas robots attīsta paātrinājumu **0.35m/s^2**
- - masa **bez izvelētajiem motoriem** ir **1.5kg**
+ - uz līdzenas virsmas robots attīsta paātrinājumu **3.2m/s^2**
+ - masa **bez izvelētajiem motoriem** ir **0.8kg**
  - strāvas avots robotam ir **2S vai 3S** LiPo akumulators
  
 pieejamie motori izvēlei: 
